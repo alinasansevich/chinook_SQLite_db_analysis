@@ -20,6 +20,7 @@ The Chinook sample database includes:
 - 11 tables
 - A variety of indexes, primary and foreign key constraints
 - Over 15,000 rows of data
+<br>
 
 For details, here's the entity relationship diagram of the Chinook data model:
 
